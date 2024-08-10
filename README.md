@@ -14,3 +14,7 @@ Ejercicios del curso de typeScript
 ## Instalacion de TypeScript de manera global
 
 npm install -g typescript
+
+## Comprobar version de TypeScript
+
+tsc -v 
