@@ -18,3 +18,7 @@ npm install -g typescript
 ## Comprobar version de TypeScript
 
 tsc -v 
+
+## No se puede cargar el archivo .ps1 por que está deshabilitada la ejecución de Scripts
+
+Set-ExecutionPolicy Unrestricted
