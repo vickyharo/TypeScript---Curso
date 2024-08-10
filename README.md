@@ -1,7 +1,7 @@
 # TypeScript --> Curso
 Ejercicios del curso de typeScript
 
-# Instalaciones recomendadas - Curso de TypeScript
+# Instalaciones
 
 1. [Node JS](https://nodejs.org/es/)
 
