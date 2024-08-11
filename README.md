@@ -27,12 +27,12 @@ Set-ExecutionPolicy Unrestricted
 
 tsc app.ts
 
-## Crear archivo TSConfig.json
+## Crear archivo TSConfig.json (Carpeta del proyecto)
 
 Correr en consola -->   tsc --init  
 Seguido de para aplicar los cambios --> tsc
 
-## Ponerlo modo observador para detectar los cambios
+## Ponerlo modo observador para detectar los cambios (Carpeta del proyecto)
 
 tsc --w
 

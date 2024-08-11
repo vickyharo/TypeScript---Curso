@@ -1,7 +1,7 @@
 const msg: string = 'Hola mundo';
 
 const hero = {
-    name:'Ironman',
+    name: 'Ironman',
     age: 45
 }
 
