@@ -22,3 +22,17 @@ tsc -v
 ## No se puede cargar el archivo .ps1 por que está deshabilitada la ejecución de Scripts
 
 Set-ExecutionPolicy Unrestricted
+
+## Traspilar typeScript a JavaScript (Carpeta del proyecto)
+
+tsc app.ts
+
+## Crear archivo TSConfig.json
+
+Correr en consola -->   tsc --init 
+Seguido de para aplicar los cambios --> tsc
+
+## Ponerlo modo observador para detectar los cambios
+
+tsc --w
+
