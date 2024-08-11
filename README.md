@@ -29,8 +29,8 @@ tsc app.ts
 
 ## Crear archivo TSConfig.json
 
-«Correr en consola -->   tsc --init 
-Seguido de para aplicar los cambios --> tsc»
+Correr en consola -->   tsc --init  
+Seguido de para aplicar los cambios --> tsc
 
 ## Ponerlo modo observador para detectar los cambios
 
