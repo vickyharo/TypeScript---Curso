@@ -1,0 +1,13 @@
+{
+  "name": "01-introduccion",
+  "version": "1.0.0",
+  "main": "introduccion.js",
+  "scripts": {
+    "start": "tsc introduccion.ts && node introduccion.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Victoria Haro Huanaco",
+  "license": "ISC",
+  "description": ""
+}

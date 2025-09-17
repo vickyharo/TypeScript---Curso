@@ -23,9 +23,20 @@ tsc -v
 
 Set-ExecutionPolicy Unrestricted
 
-## Traspilar typeScript a JavaScript (Carpeta del proyecto)
+## Crear archivo package.json (Carpeta del proyecto)
+npm init -y
+
+-Dentro del archivo ponemos el siguiente comando para poder usar "npm run start"
+"scripts": {
+    "start": "tsc app.ts && node app.js", 
+
+## Traspilar typeScript a JavaScript (Carpeta del proyecto) poner el nombre del archivo que queremos transpilar a javascript
 
 tsc app.ts
+
+## Mostrar resultado por consola
+
+node app.js
 
 ## Crear archivo TSConfig.json (Carpeta del proyecto)
 
